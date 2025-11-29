@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 📊 MarketingCampaignInsights — Banking Data Analytics & Dashboard
 
 MarketingCampaignInsights is a **data analytics and business intelligence project** designed to uncover financial insights from customer banking data.  
@@ -63,6 +59,8 @@ Using **exploratory data analysis (EDA)** and a **Power BI-based KPI dashboard**
 ---
 
 ## 📂 Project Structure
+
+
 
 ```
 
