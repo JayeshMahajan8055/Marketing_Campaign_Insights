@@ -125,8 +125,3 @@ If you found this analysis insightful, please **star ⭐ this repository** — i
 
 ```
 
----
-
-### 🔥 
-
-```
