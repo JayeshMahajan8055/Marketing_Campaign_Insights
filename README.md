@@ -112,9 +112,7 @@ AI/ML Engineer | Data Analytics & Generative AI
 📍 Pune, India
 
 🔗 GitHub: [JayeshMahajan8055](https://github.com/JayeshMahajan8055)
-🔗 LinkedIn: *Add your LinkedIn link*
-📧 Email: *Add your email*
-
+ 
 ---
 
 ## ⭐ Support
